@@ -1,11 +1,9 @@
+[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-js.svg?style=flat-square&label=Windows%20Build%20Status&logo=AppVeyor)](https://ci.appveyor.com/project/BigEgg/leetcode-js)
+[![Travis Build Status](https://img.shields.io/badge/Linux%20Build%20Status-Invalid-lightgrey.svg?label=Linux%20Build%20Status&logo=travis&style=flat-square)]()
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-26-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-JS)
+
 # LeetCode
 The JavaScript solutions for LeetCode problems.
-
-### Algorithm
-
-| Languages | Build Status | Solved Problems |
-| --------- | ------------ | --------------- |
-|JavaScript|[![Windows Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-he0qs.svg?style=flat-square&label=Windows%20Build)](https://ci.appveyor.com/project/BigEgg/leetcode-he0qs)[![Linux Build Status](https://img.shields.io/badge/Linux%20Build-Invalid-lightgrey.svg?style=flat-square)]()|[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-26-blue.svg?style=flat-square)](https://github.com/BigEgg/LeetCode/tree/JavaScript)|
 
 ## Problems
 
