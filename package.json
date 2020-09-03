@@ -1,0 +1,34 @@
+{
+  "name": "leetcode",
+  "version": "0.1.0",
+  "description": "The JavaScript solutions for Leet Code problems",
+  "author": "BigEgg",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-spec-reporter": "^3.0.0",
+    "jshint": "^2.9.4",
+    "npm-watch": "^0.1.7"
+  },
+  "watch": {
+    "test": "{src,spec}/*.js"
+  },
+  "scripts": {
+    "jasmine": "node ./jasmine-runner.js",
+    "jshint-src": "node ./node_modules/jshint/bin/jshint src",
+    "jshint-spec": "node ./node_modules/jshint/bin/jshint spec",
+    "watch:test": "npm-watch",
+    "test": "npm run jasmine",
+    "pretest": "npm run jshint-src & npm run jshint-spec"
+  },
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigEgg/LeetCode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BigEgg/LeetCode/issues"
+  },
+  "homepage": "https://github.com/BigEgg/LeetCode#readme",
+  "readme": "Leet Code JavaScript Solutions"
+}

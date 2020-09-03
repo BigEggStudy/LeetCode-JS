@@ -1,0 +1,15 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull":true,
+  "nocomma": false,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "esversion": 6,
+  "quotmark": "single",
+  "shadow": "outer",
+  "jasmine": true,
+  "module": true,
+  "node": true
+}
